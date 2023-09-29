@@ -1,0 +1,15 @@
+key,value,type
+quadkey,Tile id,character
+ADM0_PC,Country ISO Code,character
+ADM0_ES,Country name,character
+ADM1_PC,State Code,character
+ADM1_ES,State Name,character
+ADM2_PC,Municipality code,character
+ADM2_ES,Municipality name,character
+connection,Type of connection,character
+trimester,Quarter of observation,numeric
+avg_d_kbps,Average Dowload speed,numeric
+avg_u_kbps,Average Upload speed,numeric
+avg_lat_ms,Average latency metric,numeric
+tests,Number of tests done,numeric
+devices,Number of devices,numeric
