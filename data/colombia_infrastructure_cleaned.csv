@@ -1,0 +1,921 @@
+"ADM2_PC","ADM2_ES","ADM1_PC","ADM1_ES","ADM0_PC","ADM0_ES","college","clinic","university","school","hospital"
+"CO05001","Medellin","CO05","Antioquia","CO","Colombia",60,102,51,321,100
+"CO05045","Apartado","CO05","Antioquia","CO","Colombia",1,NA,5,35,13
+"CO05088","Bello","CO05","Antioquia","CO","Colombia",1,3,3,35,8
+"CO05129","Caldas","CO05","Antioquia","CO","Colombia",1,NA,NA,1,2
+"CO05145","Caramanta","CO05","Antioquia","CO","Colombia",1,NA,NA,1,1
+"CO05148","El Carmen de Viboral","CO05","Antioquia","CO","Colombia",1,1,2,18,1
+"CO05264","Entrerrios","CO05","Antioquia","CO","Colombia",2,NA,NA,3,1
+"CO05266","Envigado","CO05","Antioquia","CO","Colombia",5,NA,3,37,4
+"CO05310","Gomez Plata","CO05","Antioquia","CO","Colombia",1,NA,NA,3,1
+"CO05318","Guarne","CO05","Antioquia","CO","Colombia",1,NA,NA,6,2
+"CO05360","Itagui","CO05","Antioquia","CO","Colombia",4,2,NA,18,8
+"CO05380","La Estrella","CO05","Antioquia","CO","Colombia",1,1,NA,2,3
+"CO05579","Puerto Berrio","CO05","Antioquia","CO","Colombia",2,NA,1,9,1
+"CO05604","Remedios","CO05","Antioquia","CO","Colombia",1,NA,NA,4,1
+"CO05642","Salgar","CO05","Antioquia","CO","Colombia",1,1,NA,5,1
+"CO05665","San Pedro de Uraba","CO05","Antioquia","CO","Colombia",1,NA,NA,36,1
+"CO05686","Santa Rosa de Osos","CO05","Antioquia","CO","Colombia",1,NA,1,19,5
+"CO05690","Santo Domingo","CO05","Antioquia","CO","Colombia",1,NA,NA,NA,1
+"CO05792","Tarso","CO05","Antioquia","CO","Colombia",1,NA,NA,NA,2
+"CO05873","Vigia del Fuerte","CO05","Antioquia","CO","Colombia",1,NA,NA,1,1
+"CO05895","Zaragoza","CO05","Antioquia","CO","Colombia",1,1,NA,5,1
+"CO08001","Barranquilla","CO08","Atlantico","CO","Colombia",21,33,16,202,67
+"CO08296","Galapa","CO08","Atlantico","CO","Colombia",1,NA,NA,5,1
+"CO08372","Juan de Acosta","CO08","Atlantico","CO","Colombia",1,NA,NA,NA,NA
+"CO08433","Malambo","CO08","Atlantico","CO","Colombia",2,1,NA,16,2
+"CO08560","Ponedera","CO08","Atlantico","CO","Colombia",3,NA,NA,NA,NA
+"CO08638","Sabanalarga","CO08","Atlantico","CO","Colombia",5,1,NA,2,2
+"CO08758","Soledad","CO08","Atlantico","CO","Colombia",3,5,NA,44,13
+"CO08770","Suan","CO08","Atlantico","CO","Colombia",2,NA,NA,1,1
+"CO11001","Bogota, D.C.","CO11","Bogota, D.C.","CO","Colombia",117,258,162,1187,155
+"CO13001","Cartagena de Indias","CO13","Bolivar","CO","Colombia",11,23,18,92,19
+"CO13244","El Carmen de Bolivar","CO13","Bolivar","CO","Colombia",1,1,1,15,1
+"CO13430","Magangue","CO13","Bolivar","CO","Colombia",1,1,2,3,2
+"CO13600","Rio Viejo","CO13","Bolivar","CO","Colombia",2,NA,NA,7,4
+"CO13836","Turbaco","CO13","Bolivar","CO","Colombia",1,NA,2,3,2
+"CO15001","Tunja","CO15","Boyaca","CO","Colombia",5,2,9,32,16
+"CO15104","Boyaca","CO15","Boyaca","CO","Colombia",1,NA,NA,3,NA
+"CO15131","Caldas","CO15","Boyaca","CO","Colombia",1,NA,NA,4,NA
+"CO15176","Chiquinquira","CO15","Boyaca","CO","Colombia",2,2,3,11,3
+"CO15187","Chivata","CO15","Boyaca","CO","Colombia",1,NA,NA,14,2
+"CO15238","Duitama","CO15","Boyaca","CO","Colombia",3,3,4,45,6
+"CO15322","Guateque","CO15","Boyaca","CO","Colombia",1,NA,NA,4,NA
+"CO15407","Villa de Leyva","CO15","Boyaca","CO","Colombia",1,NA,NA,4,1
+"CO15442","Maripi","CO15","Boyaca","CO","Colombia",7,NA,NA,11,3
+"CO15537","Paz de Rio","CO15","Boyaca","CO","Colombia",1,NA,1,3,1
+"CO15572","Puerto Boyaca","CO15","Boyaca","CO","Colombia",1,1,NA,38,4
+"CO15638","Sachica","CO15","Boyaca","CO","Colombia",1,1,NA,17,NA
+"CO15646","Samaca","CO15","Boyaca","CO","Colombia",2,NA,NA,13,1
+"CO15740","Siachoque","CO15","Boyaca","CO","Colombia",4,NA,NA,2,1
+"CO15753","Soata","CO15","Boyaca","CO","Colombia",2,NA,NA,14,NA
+"CO15763","Sotaquira","CO15","Boyaca","CO","Colombia",1,NA,NA,7,NA
+"CO15808","Tinjaca","CO15","Boyaca","CO","Colombia",1,NA,NA,2,NA
+"CO15861","Ventaquemada","CO15","Boyaca","CO","Colombia",1,NA,NA,8,1
+"CO17001","Manizales","CO17","Caldas","CO","Colombia",5,17,15,51,18
+"CO17653","Salamina","CO17","Caldas","CO","Colombia",2,NA,NA,4,NA
+"CO17873","Villamaria","CO17","Caldas","CO","Colombia",1,NA,NA,18,2
+"CO18001","Florencia","CO18","Caqueta","CO","Colombia",4,3,2,9,4
+"CO18029","Albania","CO18","Caqueta","CO","Colombia",1,NA,NA,17,2
+"CO18150","Cartagena del Chaira","CO18","Caqueta","CO","Colombia",1,3,NA,5,1
+"CO18479","Morelia","CO18","Caqueta","CO","Colombia",1,NA,NA,4,NA
+"CO18610","San Jose del Fragua","CO18","Caqueta","CO","Colombia",2,1,NA,5,NA
+"CO18753","San Vicente del Caguan","CO18","Caqueta","CO","Colombia",2,NA,NA,7,1
+"CO19001","Popayan","CO19","Cauca","CO","Colombia",4,19,15,78,9
+"CO19022","Almaguer","CO19","Cauca","CO","Colombia",2,NA,NA,4,1
+"CO19050","Argelia","CO19","Cauca","CO","Colombia",2,NA,NA,37,3
+"CO19110","Buenos Aires","CO19","Cauca","CO","Colombia",3,1,NA,11,1
+"CO19130","Cajibio","CO19","Cauca","CO","Colombia",2,3,NA,32,1
+"CO19137","Caldono","CO19","Cauca","CO","Colombia",3,NA,NA,16,1
+"CO19142","Caloto","CO19","Cauca","CO","Colombia",4,NA,NA,3,2
+"CO19256","El Tambo","CO19","Cauca","CO","Colombia",10,6,NA,38,NA
+"CO19290","Florencia","CO19","Cauca","CO","Colombia",1,NA,NA,2,1
+"CO19300","Guachene","CO19","Cauca","CO","Colombia",2,NA,NA,2,1
+"CO19397","La Vega","CO19","Cauca","CO","Colombia",3,2,NA,45,1
+"CO19450","Mercaderes","CO19","Cauca","CO","Colombia",1,1,NA,4,1
+"CO19455","Miranda","CO19","Cauca","CO","Colombia",4,4,1,19,2
+"CO19513","Padilla","CO19","Cauca","CO","Colombia",2,NA,NA,6,1
+"CO19517","Paez","CO19","Cauca","CO","Colombia",3,1,NA,5,2
+"CO19532","Patia","CO19","Cauca","CO","Colombia",5,5,NA,14,2
+"CO19533","Piamonte","CO19","Cauca","CO","Colombia",1,1,NA,12,2
+"CO19548","Piendamo - Tunia","CO19","Cauca","CO","Colombia",2,NA,NA,12,3
+"CO19573","Puerto Tejada","CO19","Cauca","CO","Colombia",17,2,NA,9,2
+"CO19698","Santander de Quilichao","CO19","Cauca","CO","Colombia",8,6,4,24,3
+"CO19743","Silvia","CO19","Cauca","CO","Colombia",1,2,NA,23,2
+"CO19785","Sucre","CO19","Cauca","CO","Colombia",2,NA,NA,NA,1
+"CO19807","Timbio","CO19","Cauca","CO","Colombia",4,NA,2,14,1
+"CO19845","Villa Rica","CO19","Cauca","CO","Colombia",1,NA,NA,6,1
+"CO20001","Valledupar","CO20","Cesar","CO","Colombia",2,4,9,23,6
+"CO20011","Aguachica","CO20","Cesar","CO","Colombia",3,1,1,12,4
+"CO20013","Agustin Codazzi","CO20","Cesar","CO","Colombia",1,NA,1,4,NA
+"CO20228","Curumani","CO20","Cesar","CO","Colombia",1,NA,NA,4,1
+"CO23001","Monteria","CO23","Cordoba","CO","Colombia",4,18,6,25,3
+"CO23417","Lorica","CO23","Cordoba","CO","Colombia",10,NA,3,7,4
+"CO23586","Purisima de la Concepcion","CO23","Cordoba","CO","Colombia",1,NA,NA,NA,NA
+"CO23660","Sahagun","CO23","Cordoba","CO","Colombia",1,NA,NA,8,1
+"CO23675","San Bernardo del Viento","CO23","Cordoba","CO","Colombia",2,NA,NA,3,NA
+"CO23807","Tierralta","CO23","Cordoba","CO","Colombia",7,NA,NA,17,3
+"CO25154","Carmen de Carupa","CO25","Cundinamarca","CO","Colombia",1,NA,NA,8,2
+"CO25175","Chia","CO25","Cundinamarca","CO","Colombia",2,5,4,24,3
+"CO25245","El Colegio","CO25","Cundinamarca","CO","Colombia",2,NA,NA,7,2
+"CO25260","El Rosal","CO25","Cundinamarca","CO","Colombia",1,NA,NA,7,NA
+"CO25269","Facatativa","CO25","Cundinamarca","CO","Colombia",2,NA,1,20,8
+"CO25286","Funza","CO25","Cundinamarca","CO","Colombia",1,NA,NA,21,1
+"CO25288","Fuquene","CO25","Cundinamarca","CO","Colombia",3,NA,NA,NA,1
+"CO25290","Fusagasuga","CO25","Cundinamarca","CO","Colombia",1,1,4,16,5
+"CO25307","Girardot","CO25","Cundinamarca","CO","Colombia",1,6,5,28,NA
+"CO25317","Guacheta","CO25","Cundinamarca","CO","Colombia",4,NA,NA,1,1
+"CO25322","Guasca","CO25","Cundinamarca","CO","Colombia",1,NA,NA,6,1
+"CO25377","La Calera","CO25","Cundinamarca","CO","Colombia",1,NA,NA,16,1
+"CO25386","La Mesa","CO25","Cundinamarca","CO","Colombia",3,2,NA,7,1
+"CO25438","Medina","CO25","Cundinamarca","CO","Colombia",1,NA,NA,1,1
+"CO25473","Mosquera","CO25","Cundinamarca","CO","Colombia",1,2,1,24,1
+"CO25513","Pacho","CO25","Cundinamarca","CO","Colombia",1,NA,NA,8,2
+"CO25645","San Antonio del Tequendama","CO25","Cundinamarca","CO","Colombia",1,NA,NA,2,2
+"CO25653","San Cayetano","CO25","Cundinamarca","CO","Colombia",1,NA,NA,NA,1
+"CO25736","Sesquile","CO25","Cundinamarca","CO","Colombia",1,NA,NA,4,NA
+"CO25740","Sibate","CO25","Cundinamarca","CO","Colombia",1,NA,NA,36,2
+"CO25754","Soacha","CO25","Cundinamarca","CO","Colombia",3,2,4,69,4
+"CO25769","Subachoque","CO25","Cundinamarca","CO","Colombia",1,NA,NA,5,1
+"CO25785","Tabio","CO25","Cundinamarca","CO","Colombia",11,NA,NA,1,NA
+"CO25797","Tena","CO25","Cundinamarca","CO","Colombia",1,NA,NA,2,NA
+"CO25839","Ubala","CO25","Cundinamarca","CO","Colombia",2,NA,NA,4,NA
+"CO25862","Vergara","CO25","Cundinamarca","CO","Colombia",1,NA,NA,NA,NA
+"CO25899","Zipaquira","CO25","Cundinamarca","CO","Colombia",1,NA,NA,4,4
+"CO27001","Quibdo","CO27","Choco","CO","Colombia",2,NA,3,7,3
+"CO27006","Acandi","CO27","Choco","CO","Colombia",2,NA,NA,12,2
+"CO27099","Bojaya","CO27","Choco","CO","Colombia",1,NA,NA,1,NA
+"CO27361","Istmina","CO27","Choco","CO","Colombia",1,NA,1,4,1
+"CO27495","Nuqui","CO27","Choco","CO","Colombia",1,1,NA,2,NA
+"CO41001","Neiva","CO41","Huila","CO","Colombia",25,5,10,22,6
+"CO41013","Agrado","CO41","Huila","CO","Colombia",1,NA,NA,2,1
+"CO41016","Aipe","CO41","Huila","CO","Colombia",1,NA,NA,NA,1
+"CO41298","Garzon","CO41","Huila","CO","Colombia",4,2,2,26,5
+"CO41306","Gigante","CO41","Huila","CO","Colombia",1,NA,NA,7,NA
+"CO41396","La Plata","CO41","Huila","CO","Colombia",3,1,1,21,2
+"CO41530","Palestina","CO41","Huila","CO","Colombia",1,NA,NA,11,2
+"CO41615","Rivera","CO41","Huila","CO","Colombia",1,NA,1,5,1
+"CO41668","San Agustin","CO41","Huila","CO","Colombia",1,NA,NA,19,1
+"CO44001","Riohacha","CO44","La Guajira","CO","Colombia",4,25,3,221,29
+"CO44090","Dibulla","CO44","La Guajira","CO","Colombia",1,NA,NA,26,1
+"CO44847","Uribia","CO44","La Guajira","CO","Colombia",1,1,NA,114,3
+"CO47001","Santa Marta","CO47","Magdalena","CO","Colombia",3,15,3,86,6
+"CO50001","Villavicencio","CO50","Meta","CO","Colombia",7,6,10,51,11
+"CO50006","Acacias","CO50","Meta","CO","Colombia",4,NA,1,10,1
+"CO50313","Granada","CO50","Meta","CO","Colombia",16,NA,NA,5,23
+"CO50325","Mapiripan","CO50","Meta","CO","Colombia",1,NA,NA,2,NA
+"CO50330","Mesetas","CO50","Meta","CO","Colombia",1,NA,NA,6,1
+"CO50350","La Macarena","CO50","Meta","CO","Colombia",4,1,NA,12,NA
+"CO50370","Uribe","CO50","Meta","CO","Colombia",5,NA,NA,5,1
+"CO50577","Puerto Lleras","CO50","Meta","CO","Colombia",1,NA,NA,9,1
+"CO50590","Puerto Rico","CO50","Meta","CO","Colombia",3,NA,NA,15,1
+"CO50711","Vistahermosa","CO50","Meta","CO","Colombia",2,NA,NA,19,4
+"CO52001","Pasto","CO52","Narino","CO","Colombia",5,5,10,46,25
+"CO52079","Barbacoas","CO52","Narino","CO","Colombia",1,NA,NA,NA,1
+"CO52356","Ipiales","CO52","Narino","CO","Colombia",1,3,1,20,10
+"CO52399","La Union","CO52","Narino","CO","Colombia",1,NA,NA,14,3
+"CO52835","San Andres de Tumaco","CO52","Narino","CO","Colombia",1,NA,NA,4,3
+"CO54001","San Jose de Cucuta","CO54","Norte de Santander","CO","Colombia",31,65,17,130,56
+"CO54051","Arboledas","CO54","Norte de Santander","CO","Colombia",1,NA,NA,2,NA
+"CO54405","Los Patios","CO54","Norte de Santander","CO","Colombia",1,1,NA,8,1
+"CO54498","Ocana","CO54","Norte de Santander","CO","Colombia",3,3,1,16,3
+"CO54518","Pamplona","CO54","Norte de Santander","CO","Colombia",1,NA,2,8,5
+"CO54720","Sardinata","CO54","Norte de Santander","CO","Colombia",3,NA,NA,51,1
+"CO54810","Tibu","CO54","Norte de Santander","CO","Colombia",1,NA,NA,27,2
+"CO54874","Villa del Rosario","CO54","Norte de Santander","CO","Colombia",2,1,1,38,1
+"CO63001","Armenia","CO63","Quindio","CO","Colombia",49,16,11,47,26
+"CO63130","Calarca","CO63","Quindio","CO","Colombia",17,2,NA,19,6
+"CO63190","Circasia","CO63","Quindio","CO","Colombia",4,NA,NA,5,1
+"CO63212","Cordoba","CO63","Quindio","CO","Colombia",1,NA,NA,4,1
+"CO63272","Filandia","CO63","Quindio","CO","Colombia",1,NA,NA,7,3
+"CO63401","La Tebaida","CO63","Quindio","CO","Colombia",6,NA,NA,NA,2
+"CO63470","Montenegro","CO63","Quindio","CO","Colombia",6,NA,NA,6,2
+"CO63548","Pijao","CO63","Quindio","CO","Colombia",1,NA,NA,5,NA
+"CO63594","Quimbaya","CO63","Quindio","CO","Colombia",2,NA,NA,10,2
+"CO63690","Salento","CO63","Quindio","CO","Colombia",1,NA,NA,6,2
+"CO66001","Pereira","CO66","Risaralda","CO","Colombia",6,17,8,70,17
+"CO66088","Belen de Umbria","CO66","Risaralda","CO","Colombia",1,NA,NA,10,1
+"CO66170","Dosquebradas","CO66","Risaralda","CO","Colombia",2,1,1,20,4
+"CO66456","Mistrato","CO66","Risaralda","CO","Colombia",1,NA,NA,4,4
+"CO68001","Bucaramanga","CO68","Santander","CO","Colombia",35,10,14,32,11
+"CO68081","Barrancabermeja","CO68","Santander","CO","Colombia",5,NA,4,22,9
+"CO68190","Cimitarra","CO68","Santander","CO","Colombia",1,NA,NA,13,2
+"CO68276","Floridablanca","CO68","Santander","CO","Colombia",1,5,5,22,6
+"CO68307","Giron","CO68","Santander","CO","Colombia",1,NA,NA,2,NA
+"CO68324","Guavata","CO68","Santander","CO","Colombia",1,NA,NA,3,1
+"CO68432","Malaga","CO68","Santander","CO","Colombia",1,NA,2,20,NA
+"CO68547","Piedecuesta","CO68","Santander","CO","Colombia",1,NA,1,11,3
+"CO68572","Puente Nacional","CO68","Santander","CO","Colombia",2,NA,NA,37,1
+"CO68669","San Andres","CO68","Santander","CO","Colombia",1,NA,NA,10,1
+"CO68679","San Gil","CO68","Santander","CO","Colombia",1,2,3,16,3
+"CO68861","Velez","CO68","Santander","CO","Colombia",2,1,1,19,1
+"CO68872","Villanueva","CO68","Santander","CO","Colombia",2,NA,NA,9,1
+"CO70001","Sincelejo","CO70","Sucre","CO","Colombia",31,20,13,31,9
+"CO70230","Chalan","CO70","Sucre","CO","Colombia",1,2,NA,NA,NA
+"CO70400","La Union","CO70","Sucre","CO","Colombia",1,NA,NA,3,1
+"CO70418","Los Palmitos","CO70","Sucre","CO","Colombia",9,NA,NA,9,4
+"CO73001","Ibague","CO73","Tolima","CO","Colombia",15,16,10,102,39
+"CO73030","Ambalema","CO73","Tolima","CO","Colombia",2,NA,NA,3,1
+"CO73043","Anzoategui","CO73","Tolima","CO","Colombia",1,NA,NA,4,1
+"CO73067","Ataco","CO73","Tolima","CO","Colombia",2,NA,NA,28,NA
+"CO73148","Carmen de Apicala","CO73","Tolima","CO","Colombia",1,NA,NA,3,2
+"CO73168","Chaparral","CO73","Tolima","CO","Colombia",6,1,1,25,1
+"CO73319","Guamo","CO73","Tolima","CO","Colombia",1,NA,NA,14,NA
+"CO73411","Libano","CO73","Tolima","CO","Colombia",3,NA,3,30,2
+"CO73443","San Sebastian de Mariquita","CO73","Tolima","CO","Colombia",1,NA,NA,13,1
+"CO73461","Murillo","CO73","Tolima","CO","Colombia",1,NA,NA,11,1
+"CO76001","Cali","CO76","Valle del Cauca","CO","Colombia",26,51,24,221,385
+"CO76041","Ansermanuevo","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,1,1
+"CO76109","Buenaventura","CO76","Valle del Cauca","CO","Colombia",7,NA,4,5,6
+"CO76111","Guadalajara de Buga","CO76","Valle del Cauca","CO","Colombia",4,1,2,10,6
+"CO76147","Cartago","CO76","Valle del Cauca","CO","Colombia",3,4,2,5,2
+"CO76248","El Cerrito","CO76","Valle del Cauca","CO","Colombia",1,1,NA,8,NA
+"CO76306","Ginebra","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,NA,NA
+"CO76400","La Union","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,1,1
+"CO76520","Palmira","CO76","Valle del Cauca","CO","Colombia",2,9,10,49,8
+"CO76616","Riofrio","CO76","Valle del Cauca","CO","Colombia",3,NA,NA,NA,1
+"CO76828","Trujillo","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,2,NA
+"CO76845","Ulloa","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,3,1
+"CO76869","Vijes","CO76","Valle del Cauca","CO","Colombia",1,NA,NA,NA,1
+"CO76892","Yumbo","CO76","Valle del Cauca","CO","Colombia",2,NA,1,27,5
+"CO81001","Arauca","CO81","Arauca","CO","Colombia",4,1,NA,11,1
+"CO81736","Saravena","CO81","Arauca","CO","Colombia",7,2,NA,5,1
+"CO81794","Tame","CO81","Arauca","CO","Colombia",3,1,NA,1,NA
+"CO85001","Yopal","CO85","Casanare","CO","Colombia",6,6,8,54,13
+"CO85263","Pore","CO85","Casanare","CO","Colombia",1,NA,NA,NA,NA
+"CO85410","Tauramena","CO85","Casanare","CO","Colombia",8,NA,NA,5,1
+"CO86001","Mocoa","CO86","Putumayo","CO","Colombia",1,NA,NA,25,1
+"CO86568","Puerto Asis","CO86","Putumayo","CO","Colombia",2,NA,1,13,1
+"CO86571","Puerto Guzman","CO86","Putumayo","CO","Colombia",1,NA,NA,7,2
+"CO91001","Leticia","CO91","Amazonas","CO","Colombia",1,1,2,27,2
+"CO95001","San Jose del Guaviare","CO95","Guaviare","CO","Colombia",6,NA,1,32,1
+"CO99773","Cumaribo","CO99","Vichada","CO","Colombia",1,1,NA,13,2
+"CO05031","Amalfi","CO05","Antioquia","CO","Colombia",NA,1,2,23,1
+"CO05120","Caceres","CO05","Antioquia","CO","Colombia",NA,2,NA,26,5
+"CO05154","Caucasia","CO05","Antioquia","CO","Colombia",NA,1,NA,8,2
+"CO05250","El Bagre","CO05","Antioquia","CO","Colombia",NA,1,NA,11,1
+"CO05364","Jardin","CO05","Antioquia","CO","Colombia",NA,1,NA,3,1
+"CO05376","La Ceja","CO05","Antioquia","CO","Colombia",NA,1,NA,6,1
+"CO05543","Peque","CO05","Antioquia","CO","Colombia",NA,1,NA,2,1
+"CO05615","Rionegro","CO05","Antioquia","CO","Colombia",NA,1,2,25,5
+"CO05631","Sabaneta","CO05","Antioquia","CO","Colombia",NA,1,2,4,2
+"CO05837","Turbo","CO05","Antioquia","CO","Colombia",NA,1,3,59,4
+"CO08078","Baranoa","CO08","Atlantico","CO","Colombia",NA,1,1,3,1
+"CO08573","Puerto Colombia","CO08","Atlantico","CO","Colombia",NA,1,8,16,1
+"CO13433","Mahates","CO13","Bolivar","CO","Colombia",NA,1,NA,1,NA
+"CO15332","Guican de la Sierra","CO15","Boyaca","CO","Colombia",NA,1,NA,7,1
+"CO15518","Pajarito","CO15","Boyaca","CO","Colombia",NA,1,NA,4,NA
+"CO15759","Sogamoso","CO15","Boyaca","CO","Colombia",NA,1,2,22,6
+"CO15762","Sora","CO15","Boyaca","CO","Colombia",NA,1,NA,1,NA
+"CO15822","Tota","CO15","Boyaca","CO","Colombia",NA,1,NA,2,NA
+"CO17013","Aguadas","CO17","Caldas","CO","Colombia",NA,1,NA,3,1
+"CO17174","Chinchina","CO17","Caldas","CO","Colombia",NA,1,NA,6,3
+"CO17777","Supia","CO17","Caldas","CO","Colombia",NA,1,NA,1,1
+"CO18592","Puerto Rico","CO18","Caqueta","CO","Colombia",NA,1,NA,4,1
+"CO18756","Solano","CO18","Caqueta","CO","Colombia",NA,1,NA,7,1
+"CO19100","Bolivar","CO19","Cauca","CO","Colombia",NA,1,NA,9,1
+"CO19355","Inza","CO19","Cauca","CO","Colombia",NA,3,NA,9,1
+"CO19418","Lopez de Micay","CO19","Cauca","CO","Colombia",NA,1,NA,3,1
+"CO19760","Sotara - Paispamba","CO19","Cauca","CO","Colombia",NA,1,NA,7,2
+"CO19809","Timbiqui","CO19","Cauca","CO","Colombia",NA,1,NA,3,NA
+"CO19824","Totoro","CO19","Cauca","CO","Colombia",NA,1,NA,15,1
+"CO20443","Manaure Balcon del Cesar","CO20","Cesar","CO","Colombia",NA,2,NA,3,1
+"CO25126","Cajica","CO25","Cundinamarca","CO","Colombia",NA,1,3,7,1
+"CO25281","Fosca","CO25","Cundinamarca","CO","Colombia",NA,1,NA,2,NA
+"CO25335","Guayabetal","CO25","Cundinamarca","CO","Colombia",NA,1,NA,NA,NA
+"CO25599","Apulo","CO25","Cundinamarca","CO","Colombia",NA,1,NA,NA,1
+"CO25851","Utica","CO25","Cundinamarca","CO","Colombia",NA,1,NA,NA,NA
+"CO41551","Pitalito","CO41","Huila","CO","Colombia",NA,3,2,35,NA
+"CO44078","Barrancas","CO44","La Guajira","CO","Colombia",NA,3,NA,35,1
+"CO44430","Maicao","CO44","La Guajira","CO","Colombia",NA,1,1,60,4
+"CO44560","Manaure","CO44","La Guajira","CO","Colombia",NA,2,NA,28,3
+"CO47189","Cienaga","CO47","Magdalena","CO","Colombia",NA,1,NA,20,6
+"CO50251","El Castillo","CO50","Meta","CO","Colombia",NA,1,NA,7,NA
+"CO50568","Puerto Gaitan","CO50","Meta","CO","Colombia",NA,1,NA,7,4
+"CO52418","Los Andes","CO52","Narino","CO","Colombia",NA,1,NA,NA,1
+"CO54109","Bucarasica","CO54","Norte de Santander","CO","Colombia",NA,1,NA,4,NA
+"CO68755","Socorro","CO68","Santander","CO","Colombia",NA,2,1,3,1
+"CO68820","Tona","CO68","Santander","CO","Colombia",NA,1,NA,3,NA
+"CO70215","Corozal","CO70","Sucre","CO","Colombia",NA,1,NA,2,NA
+"CO70473","Morroa","CO70","Sucre","CO","Colombia",NA,1,1,3,1
+"CO70670","Sampues","CO70","Sucre","CO","Colombia",NA,1,NA,3,1
+"CO73268","Espinal","CO73","Tolima","CO","Colombia",NA,1,3,37,1
+"CO76275","Florida","CO76","Valle del Cauca","CO","Colombia",NA,1,NA,5,3
+"CO76364","Jamundi","CO76","Valle del Cauca","CO","Colombia",NA,1,1,17,3
+"CO85430","Trinidad","CO85","Casanare","CO","Colombia",NA,1,NA,3,NA
+"CO85440","Villanueva","CO85","Casanare","CO","Colombia",NA,2,NA,13,1
+"CO86749","Sibundoy","CO86","Putumayo","CO","Colombia",NA,1,NA,4,NA
+"CO88001","San Andres","CO88","Archipielago de San Andres, Providencia y Santa Catalina","CO","Colombia",NA,1,2,6,2
+"CO97001","Mitu","CO97","Vaupes","CO","Colombia",NA,1,NA,11,1
+"CO05411","Liborina","CO05","Antioquia","CO","Colombia",NA,NA,1,2,1
+"CO13440","Margarita","CO13","Bolivar","CO","Colombia",NA,NA,2,NA,NA
+"CO15667","San Luis de Gaceno","CO15","Boyaca","CO","Colombia",NA,NA,1,12,1
+"CO15757","Socha","CO15","Boyaca","CO","Colombia",NA,NA,1,19,1
+"CO17524","Palestina","CO17","Caldas","CO","Colombia",NA,NA,1,3,2
+"CO20621","La Paz","CO20","Cesar","CO","Colombia",NA,NA,5,2,NA
+"CO23189","Cienaga de Oro","CO23","Cordoba","CO","Colombia",NA,NA,1,NA,NA
+"CO25718","Sasaima","CO25","Cundinamarca","CO","Colombia",NA,NA,1,NA,1
+"CO25758","Sopo","CO25","Cundinamarca","CO","Colombia",NA,NA,1,6,NA
+"CO50606","Restrepo","CO50","Meta","CO","Colombia",NA,NA,3,1,NA
+"CO52838","Tuquerres","CO52","Narino","CO","Colombia",NA,NA,2,14,4
+"CO68077","Barbosa","CO68","Santander","CO","Colombia",NA,NA,1,13,2
+"CO73055","Armero","CO73","Tolima","CO","Colombia",NA,NA,1,6,1
+"CO73408","Lerida","CO73","Tolima","CO","Colombia",NA,NA,3,9,1
+"CO73449","Melgar","CO73","Tolima","CO","Colombia",NA,NA,1,9,2
+"CO76622","Roldanillo","CO76","Valle del Cauca","CO","Colombia",NA,NA,2,3,1
+"CO76834","Tulua","CO76","Valle del Cauca","CO","Colombia",NA,NA,4,54,34
+"CO76895","Zarzal","CO76","Valle del Cauca","CO","Colombia",NA,NA,1,7,2
+"CO05002","Abejorral","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,2
+"CO05021","Alejandria","CO05","Antioquia","CO","Colombia",NA,NA,NA,6,1
+"CO05030","Amaga","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05034","Andes","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,2
+"CO05036","Angelopolis","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,2
+"CO05038","Angostura","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05040","Anori","CO05","Antioquia","CO","Colombia",NA,NA,NA,9,NA
+"CO05042","Santa Fe de Antioquia","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05044","Anza","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05051","Arboletes","CO05","Antioquia","CO","Colombia",NA,NA,NA,24,1
+"CO05055","Argelia","CO05","Antioquia","CO","Colombia",NA,NA,NA,36,1
+"CO05059","Armenia","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05079","Barbosa","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,1
+"CO05086","Belmira","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05093","Betulia","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,2
+"CO05101","Ciudad Bolivar","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05107","Briceno","CO05","Antioquia","CO","Colombia",NA,NA,NA,9,1
+"CO05113","Buritica","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05125","Caicedo","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05134","Campamento","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,2
+"CO05138","Canasgordas","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,2
+"CO05142","Caracoli","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05147","Carepa","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05150","Carolina","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05172","Chigorodo","CO05","Antioquia","CO","Colombia",NA,NA,NA,13,1
+"CO05197","Cocorna","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,3
+"CO05206","Concepcion","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05209","Concordia","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05212","Copacabana","CO05","Antioquia","CO","Colombia",NA,NA,NA,14,2
+"CO05234","Dabeiba","CO05","Antioquia","CO","Colombia",NA,NA,NA,8,NA
+"CO05237","Donmatias","CO05","Antioquia","CO","Colombia",NA,NA,NA,7,1
+"CO05240","Ebejico","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05284","Frontino","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,2
+"CO05306","Giraldo","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05308","Girardota","CO05","Antioquia","CO","Colombia",NA,NA,NA,4,1
+"CO05313","Granada","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,1
+"CO05315","Guadalupe","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,2
+"CO05321","Guatape","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,2
+"CO05347","Heliconia","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05353","Hispania","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05361","Ituango","CO05","Antioquia","CO","Colombia",NA,NA,NA,16,2
+"CO05368","Jerico","CO05","Antioquia","CO","Colombia",NA,NA,NA,6,NA
+"CO05390","La Pintada","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05400","La Union","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05425","Maceo","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05440","Marinilla","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,1
+"CO05467","Montebello","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05480","Mutata","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05483","Narino","CO05","Antioquia","CO","Colombia",NA,NA,NA,49,1
+"CO05490","Necocli","CO05","Antioquia","CO","Colombia",NA,NA,NA,19,3
+"CO05495","Nechi","CO05","Antioquia","CO","Colombia",NA,NA,NA,16,3
+"CO05501","Olaya","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05541","Penol","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05607","Retiro","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,1
+"CO05647","San Andres de Cuerquia","CO05","Antioquia","CO","Colombia",NA,NA,NA,28,2
+"CO05649","San Carlos","CO05","Antioquia","CO","Colombia",NA,NA,NA,22,1
+"CO05652","San Francisco","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05656","San Jeronimo","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05658","San Jose de la Montana","CO05","Antioquia","CO","Colombia",NA,NA,NA,4,1
+"CO05659","San Juan de Uraba","CO05","Antioquia","CO","Colombia",NA,NA,NA,21,1
+"CO05660","San Luis","CO05","Antioquia","CO","Colombia",NA,NA,NA,6,2
+"CO05664","San Pedro de los Milagros","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,2
+"CO05670","San Roque","CO05","Antioquia","CO","Colombia",NA,NA,NA,4,1
+"CO05674","San Vicente Ferrer","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05679","Santa Barbara","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05697","El Santuario","CO05","Antioquia","CO","Colombia",NA,NA,NA,8,1
+"CO05756","Sonson","CO05","Antioquia","CO","Colombia",NA,NA,NA,7,1
+"CO05761","Sopetran","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05789","Tamesis","CO05","Antioquia","CO","Colombia",NA,NA,NA,3,1
+"CO05790","Taraza","CO05","Antioquia","CO","Colombia",NA,NA,NA,10,2
+"CO05819","Toledo","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05842","Uramita","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,1
+"CO05847","Urrao","CO05","Antioquia","CO","Colombia",NA,NA,NA,7,2
+"CO05854","Valdivia","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05856","Valparaiso","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05858","Vegachi","CO05","Antioquia","CO","Colombia",NA,NA,NA,11,1
+"CO05861","Venecia","CO05","Antioquia","CO","Colombia",NA,NA,NA,2,2
+"CO05885","Yali","CO05","Antioquia","CO","Colombia",NA,NA,NA,5,1
+"CO05887","Yarumal","CO05","Antioquia","CO","Colombia",NA,NA,NA,15,1
+"CO05890","Yolombo","CO05","Antioquia","CO","Colombia",NA,NA,NA,1,1
+"CO05893","Yondo","CO05","Antioquia","CO","Colombia",NA,NA,NA,4,1
+"CO08137","Campo de la Cruz","CO08","Atlantico","CO","Colombia",NA,NA,NA,6,NA
+"CO08436","Manati","CO08","Atlantico","CO","Colombia",NA,NA,NA,10,2
+"CO08634","Sabanagrande","CO08","Atlantico","CO","Colombia",NA,NA,NA,1,1
+"CO08832","Tubara","CO08","Atlantico","CO","Colombia",NA,NA,NA,3,1
+"CO13030","Altos del Rosario","CO13","Bolivar","CO","Colombia",NA,NA,NA,2,1
+"CO13042","Arenal","CO13","Bolivar","CO","Colombia",NA,NA,NA,1,NA
+"CO13052","Arjona","CO13","Bolivar","CO","Colombia",NA,NA,NA,1,NA
+"CO13160","Cantagallo","CO13","Bolivar","CO","Colombia",NA,NA,NA,2,NA
+"CO13468","Mompos","CO13","Bolivar","CO","Colombia",NA,NA,NA,12,1
+"CO13473","Morales","CO13","Bolivar","CO","Colombia",NA,NA,NA,7,1
+"CO13647","San Estanislao","CO13","Bolivar","CO","Colombia",NA,NA,NA,1,NA
+"CO13650","San Fernando","CO13","Bolivar","CO","Colombia",NA,NA,NA,1,NA
+"CO13654","San Jacinto","CO13","Bolivar","CO","Colombia",NA,NA,NA,4,1
+"CO13657","San Juan Nepomuceno","CO13","Bolivar","CO","Colombia",NA,NA,NA,1,NA
+"CO13670","San Pablo","CO13","Bolivar","CO","Colombia",NA,NA,NA,10,NA
+"CO13688","Santa Rosa del Sur","CO13","Bolivar","CO","Colombia",NA,NA,NA,42,1
+"CO13744","Simiti","CO13","Bolivar","CO","Colombia",NA,NA,NA,13,NA
+"CO13810","Tiquisio","CO13","Bolivar","CO","Colombia",NA,NA,NA,2,1
+"CO15022","Almeida","CO15","Boyaca","CO","Colombia",NA,NA,NA,5,1
+"CO15047","Aquitania","CO15","Boyaca","CO","Colombia",NA,NA,NA,19,NA
+"CO15051","Arcabuco","CO15","Boyaca","CO","Colombia",NA,NA,NA,9,2
+"CO15087","Belen","CO15","Boyaca","CO","Colombia",NA,NA,NA,20,4
+"CO15090","Berbeo","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15092","Beteitiva","CO15","Boyaca","CO","Colombia",NA,NA,NA,5,NA
+"CO15097","Boavita","CO15","Boyaca","CO","Colombia",NA,NA,NA,27,4
+"CO15109","Buenavista","CO15","Boyaca","CO","Colombia",NA,NA,NA,20,NA
+"CO15114","Busbanza","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15135","Campohermoso","CO15","Boyaca","CO","Colombia",NA,NA,NA,15,1
+"CO15162","Cerinza","CO15","Boyaca","CO","Colombia",NA,NA,NA,6,1
+"CO15172","Chinavita","CO15","Boyaca","CO","Colombia",NA,NA,NA,7,2
+"CO15180","Chiscas","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,NA
+"CO15183","Chita","CO15","Boyaca","CO","Colombia",NA,NA,NA,13,1
+"CO15185","Chitaraque","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,NA
+"CO15189","Cienega","CO15","Boyaca","CO","Colombia",NA,NA,NA,7,NA
+"CO15204","Combita","CO15","Boyaca","CO","Colombia",NA,NA,NA,13,NA
+"CO15212","Coper","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15215","Corrales","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15218","Covarachia","CO15","Boyaca","CO","Colombia",NA,NA,NA,21,3
+"CO15223","Cubara","CO15","Boyaca","CO","Colombia",NA,NA,NA,22,1
+"CO15224","Cucaita","CO15","Boyaca","CO","Colombia",NA,NA,NA,13,NA
+"CO15226","Cuitiva","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,NA
+"CO15232","Chiquiza","CO15","Boyaca","CO","Colombia",NA,NA,NA,5,1
+"CO15236","Chivor","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15244","El Cocuy","CO15","Boyaca","CO","Colombia",NA,NA,NA,5,1
+"CO15272","Firavitoba","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,NA
+"CO15276","Floresta","CO15","Boyaca","CO","Colombia",NA,NA,NA,18,1
+"CO15293","Gachantiva","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,1
+"CO15296","Gameza","CO15","Boyaca","CO","Colombia",NA,NA,NA,8,1
+"CO15299","Garagoa","CO15","Boyaca","CO","Colombia",NA,NA,NA,6,2
+"CO15317","Guacamayas","CO15","Boyaca","CO","Colombia",NA,NA,NA,8,1
+"CO15325","Guayata","CO15","Boyaca","CO","Colombia",NA,NA,NA,16,NA
+"CO15362","Iza","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,NA
+"CO15367","Jenesano","CO15","Boyaca","CO","Colombia",NA,NA,NA,7,1
+"CO15368","Jerico","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15380","La Capilla","CO15","Boyaca","CO","Colombia",NA,NA,NA,7,1
+"CO15403","La Uvita","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,1
+"CO15425","Macanal","CO15","Boyaca","CO","Colombia",NA,NA,NA,11,NA
+"CO15455","Miraflores","CO15","Boyaca","CO","Colombia",NA,NA,NA,18,1
+"CO15464","Mongua","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15466","Mongui","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,1
+"CO15469","Moniquira","CO15","Boyaca","CO","Colombia",NA,NA,NA,16,1
+"CO15476","Motavita","CO15","Boyaca","CO","Colombia",NA,NA,NA,7,NA
+"CO15480","Muzo","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,1
+"CO15491","Nobsa","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,NA
+"CO15494","Nuevo Colon","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15500","Oicata","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,NA
+"CO15507","Otanche","CO15","Boyaca","CO","Colombia",NA,NA,NA,14,NA
+"CO15511","Pachavita","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15514","Paez","CO15","Boyaca","CO","Colombia",NA,NA,NA,14,2
+"CO15516","Paipa","CO15","Boyaca","CO","Colombia",NA,NA,NA,16,2
+"CO15522","Panqueba","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,1
+"CO15531","Pauna","CO15","Boyaca","CO","Colombia",NA,NA,NA,29,NA
+"CO15533","Paya","CO15","Boyaca","CO","Colombia",NA,NA,NA,8,2
+"CO15542","Pesca","CO15","Boyaca","CO","Colombia",NA,NA,NA,9,NA
+"CO15580","Quipama","CO15","Boyaca","CO","Colombia",NA,NA,NA,9,1
+"CO15599","Ramiriqui","CO15","Boyaca","CO","Colombia",NA,NA,NA,22,1
+"CO15600","Raquira","CO15","Boyaca","CO","Colombia",NA,NA,NA,22,NA
+"CO15621","Rondon","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15632","Saboya","CO15","Boyaca","CO","Colombia",NA,NA,NA,9,NA
+"CO15660","San Eduardo","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15664","San Jose de Pare","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,1
+"CO15673","San Mateo","CO15","Boyaca","CO","Colombia",NA,NA,NA,25,NA
+"CO15676","San Miguel de Sema","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,1
+"CO15681","San Pablo de Borbur","CO15","Boyaca","CO","Colombia",NA,NA,NA,16,NA
+"CO15686","Santana","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,1
+"CO15690","Santa Maria","CO15","Boyaca","CO","Colombia",NA,NA,NA,3,NA
+"CO15693","Santa Rosa de Viterbo","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,1
+"CO15696","Santa Sofia","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,1
+"CO15720","Sativanorte","CO15","Boyaca","CO","Colombia",NA,NA,NA,19,1
+"CO15723","Sativasur","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,NA
+"CO15755","Socota","CO15","Boyaca","CO","Colombia",NA,NA,NA,25,3
+"CO15761","Somondoco","CO15","Boyaca","CO","Colombia",NA,NA,NA,4,1
+"CO15764","Soraca","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,1
+"CO15776","Sutamarchan","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,1
+"CO15778","Sutatenza","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15790","Tasco","CO15","Boyaca","CO","Colombia",NA,NA,NA,9,NA
+"CO15798","Tenza","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15804","Tibana","CO15","Boyaca","CO","Colombia",NA,NA,NA,10,NA
+"CO15806","Tibasosa","CO15","Boyaca","CO","Colombia",NA,NA,NA,6,NA
+"CO15810","Tipacoque","CO15","Boyaca","CO","Colombia",NA,NA,NA,8,NA
+"CO15814","Toca","CO15","Boyaca","CO","Colombia",NA,NA,NA,11,1
+"CO15816","Togui","CO15","Boyaca","CO","Colombia",NA,NA,NA,6,1
+"CO15820","Topaga","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15832","Tunungua","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO15835","Turmeque","CO15","Boyaca","CO","Colombia",NA,NA,NA,5,1
+"CO15837","Tuta","CO15","Boyaca","CO","Colombia",NA,NA,NA,17,1
+"CO15839","Tutaza","CO15","Boyaca","CO","Colombia",NA,NA,NA,2,NA
+"CO15842","Umbita","CO15","Boyaca","CO","Colombia",NA,NA,NA,14,2
+"CO15879","Viracacha","CO15","Boyaca","CO","Colombia",NA,NA,NA,1,NA
+"CO17050","Aranzazu","CO17","Caldas","CO","Colombia",NA,NA,NA,2,NA
+"CO17088","Belalcazar","CO17","Caldas","CO","Colombia",NA,NA,NA,2,1
+"CO17272","Filadelfia","CO17","Caldas","CO","Colombia",NA,NA,NA,1,1
+"CO17380","La Dorada","CO17","Caldas","CO","Colombia",NA,NA,NA,1,1
+"CO17444","Marquetalia","CO17","Caldas","CO","Colombia",NA,NA,NA,17,1
+"CO17486","Neira","CO17","Caldas","CO","Colombia",NA,NA,NA,1,NA
+"CO17495","Norcasia","CO17","Caldas","CO","Colombia",NA,NA,NA,1,1
+"CO17513","Pacora","CO17","Caldas","CO","Colombia",NA,NA,NA,8,1
+"CO17541","Pensilvania","CO17","Caldas","CO","Colombia",NA,NA,NA,44,2
+"CO17614","Riosucio","CO17","Caldas","CO","Colombia",NA,NA,NA,1,1
+"CO17616","Risaralda","CO17","Caldas","CO","Colombia",NA,NA,NA,2,1
+"CO17662","Samana","CO17","Caldas","CO","Colombia",NA,NA,NA,49,2
+"CO17867","Victoria","CO17","Caldas","CO","Colombia",NA,NA,NA,2,NA
+"CO17877","Viterbo","CO17","Caldas","CO","Colombia",NA,NA,NA,3,1
+"CO18094","Belen de los Andaquies","CO18","Caqueta","CO","Colombia",NA,NA,NA,3,1
+"CO18205","Curillo","CO18","Caqueta","CO","Colombia",NA,NA,NA,18,1
+"CO18247","El Doncello","CO18","Caqueta","CO","Colombia",NA,NA,NA,1,NA
+"CO18256","El Paujil","CO18","Caqueta","CO","Colombia",NA,NA,NA,11,2
+"CO18410","La Montanita","CO18","Caqueta","CO","Colombia",NA,NA,NA,4,NA
+"CO18460","Milan","CO18","Caqueta","CO","Colombia",NA,NA,NA,1,NA
+"CO18785","Solita","CO18","Caqueta","CO","Colombia",NA,NA,NA,8,1
+"CO18860","Valparaiso","CO18","Caqueta","CO","Colombia",NA,NA,NA,31,NA
+"CO19075","Balboa","CO19","Cauca","CO","Colombia",NA,NA,NA,1,NA
+"CO19212","Corinto","CO19","Cauca","CO","Colombia",NA,NA,NA,3,NA
+"CO19318","Guapi","CO19","Cauca","CO","Colombia",NA,NA,NA,15,2
+"CO19364","Jambalo","CO19","Cauca","CO","Colombia",NA,NA,NA,5,1
+"CO19392","La Sierra","CO19","Cauca","CO","Colombia",NA,NA,NA,14,1
+"CO19473","Morales","CO19","Cauca","CO","Colombia",NA,NA,NA,22,NA
+"CO19585","Purace","CO19","Cauca","CO","Colombia",NA,NA,NA,6,1
+"CO19622","Rosas","CO19","Cauca","CO","Colombia",NA,NA,NA,5,NA
+"CO19693","San Sebastian","CO19","Cauca","CO","Colombia",NA,NA,NA,7,NA
+"CO19701","Santa Rosa","CO19","Cauca","CO","Colombia",NA,NA,NA,7,NA
+"CO19780","Suarez","CO19","Cauca","CO","Colombia",NA,NA,NA,9,2
+"CO19821","Toribio","CO19","Cauca","CO","Colombia",NA,NA,NA,9,1
+"CO20045","Becerril","CO20","Cesar","CO","Colombia",NA,NA,NA,3,NA
+"CO20178","Chiriguana","CO20","Cesar","CO","Colombia",NA,NA,NA,5,2
+"CO20250","El Paso","CO20","Cesar","CO","Colombia",NA,NA,NA,5,1
+"CO20383","La Gloria","CO20","Cesar","CO","Colombia",NA,NA,NA,4,NA
+"CO20517","Pailitas","CO20","Cesar","CO","Colombia",NA,NA,NA,1,NA
+"CO20614","Rio de Oro","CO20","Cesar","CO","Colombia",NA,NA,NA,4,NA
+"CO20710","San Alberto","CO20","Cesar","CO","Colombia",NA,NA,NA,1,2
+"CO20770","San Martin","CO20","Cesar","CO","Colombia",NA,NA,NA,1,NA
+"CO20787","Tamalameque","CO20","Cesar","CO","Colombia",NA,NA,NA,1,NA
+"CO23068","Ayapel","CO23","Cordoba","CO","Colombia",NA,NA,NA,2,NA
+"CO23464","Momil","CO23","Cordoba","CO","Colombia",NA,NA,NA,1,NA
+"CO23466","Montelibano","CO23","Cordoba","CO","Colombia",NA,NA,NA,14,NA
+"CO23500","Monitos","CO23","Cordoba","CO","Colombia",NA,NA,NA,1,NA
+"CO23580","Puerto Libertador","CO23","Cordoba","CO","Colombia",NA,NA,NA,1,NA
+"CO23682","San Jose de Ure","CO23","Cordoba","CO","Colombia",NA,NA,NA,3,NA
+"CO23686","San Pelayo","CO23","Cordoba","CO","Colombia",NA,NA,NA,3,NA
+"CO23855","Valencia","CO23","Cordoba","CO","Colombia",NA,NA,NA,12,1
+"CO25019","Alban","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,NA
+"CO25035","Anapoima","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25040","Anolaima","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,7,2
+"CO25053","Arbelaez","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,5,2
+"CO25086","Beltran","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25099","Bojaca","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25120","Cabrera","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25123","Cachipay","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,5,NA
+"CO25148","Caparrapi","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,21,NA
+"CO25151","Caqueza","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25181","Choachi","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,8,1
+"CO25183","Choconta","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25200","Cogua","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,NA
+"CO25214","Cota","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,15,1
+"CO25258","El Penon","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,NA
+"CO25279","Fomeque","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,3
+"CO25295","Gachancipa","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,1
+"CO25312","Granada","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25320","Guaduas","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25324","Guataqui","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25326","Guatavita","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,1
+"CO25339","Gutierrez","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25368","Jerusalen","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25372","Junin","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,NA
+"CO25394","La Palma","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25398","La Pena","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,NA
+"CO25402","La Vega","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25407","Lenguazaque","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25426","Macheta","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25430","Madrid","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,13,2
+"CO25436","Manta","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25486","Nemocon","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,1
+"CO25506","Venecia","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25518","Paime","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,26,NA
+"CO25530","Paratebueno","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,NA
+"CO25535","Pasca","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,NA
+"CO25580","Puli","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25592","Quebradanegra","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25596","Quipile","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,NA
+"CO25612","Ricaurte","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,NA
+"CO25649","San Bernardo","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,NA
+"CO25658","San Francisco","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25662","San Juan de Rioseco","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25743","Silvania","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,6,1
+"CO25772","Suesca","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,1
+"CO25781","Sutatausa","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25793","Tausa","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,NA
+"CO25799","Tenjo","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,2,NA
+"CO25815","Tocaima","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,1
+"CO25817","Tocancipa","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,9,2
+"CO25823","Topaipi","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,16,NA
+"CO25841","Ubaque","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,1
+"CO25843","Villa de San Diego de Ubate","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,6,1
+"CO25845","Une","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25867","Viani","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,1,NA
+"CO25873","Villapinzon","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,4,NA
+"CO25875","Villeta","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,5,4
+"CO25885","Yacopi","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,14,NA
+"CO25898","Zipacon","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,3,NA
+"CO27075","Bahia Solano","CO27","Choco","CO","Colombia",NA,NA,NA,4,1
+"CO27077","Bajo Baudo","CO27","Choco","CO","Colombia",NA,NA,NA,1,1
+"CO27135","El Canton del San Pablo","CO27","Choco","CO","Colombia",NA,NA,NA,1,NA
+"CO27150","Carmen del Darien","CO27","Choco","CO","Colombia",NA,NA,NA,1,NA
+"CO27160","Certegui","CO27","Choco","CO","Colombia",NA,NA,NA,1,NA
+"CO27205","Condoto","CO27","Choco","CO","Colombia",NA,NA,NA,1,NA
+"CO27372","Jurado","CO27","Choco","CO","Colombia",NA,NA,NA,1,1
+"CO27580","Rio Iro","CO27","Choco","CO","Colombia",NA,NA,NA,3,NA
+"CO27615","Riosucio","CO27","Choco","CO","Colombia",NA,NA,NA,22,NA
+"CO27787","Tado","CO27","Choco","CO","Colombia",NA,NA,NA,5,1
+"CO27800","Unguia","CO27","Choco","CO","Colombia",NA,NA,NA,7,1
+"CO41006","Acevedo","CO41","Huila","CO","Colombia",NA,NA,NA,3,NA
+"CO41020","Algeciras","CO41","Huila","CO","Colombia",NA,NA,NA,2,1
+"CO41078","Baraya","CO41","Huila","CO","Colombia",NA,NA,NA,9,1
+"CO41206","Colombia","CO41","Huila","CO","Colombia",NA,NA,NA,2,NA
+"CO41244","Elias","CO41","Huila","CO","Colombia",NA,NA,NA,1,1
+"CO41319","Guadalupe","CO41","Huila","CO","Colombia",NA,NA,NA,4,1
+"CO41357","Iquira","CO41","Huila","CO","Colombia",NA,NA,NA,13,NA
+"CO41359","Isnos","CO41","Huila","CO","Colombia",NA,NA,NA,20,1
+"CO41483","Nataga","CO41","Huila","CO","Colombia",NA,NA,NA,16,NA
+"CO41503","Oporapa","CO41","Huila","CO","Colombia",NA,NA,NA,5,NA
+"CO41524","Palermo","CO41","Huila","CO","Colombia",NA,NA,NA,2,1
+"CO41548","Pital","CO41","Huila","CO","Colombia",NA,NA,NA,15,1
+"CO41660","Saladoblanco","CO41","Huila","CO","Colombia",NA,NA,NA,13,NA
+"CO41676","Santa Maria","CO41","Huila","CO","Colombia",NA,NA,NA,27,NA
+"CO41770","Suaza","CO41","Huila","CO","Colombia",NA,NA,NA,4,NA
+"CO41791","Tarqui","CO41","Huila","CO","Colombia",NA,NA,NA,7,1
+"CO41799","Tello","CO41","Huila","CO","Colombia",NA,NA,NA,1,1
+"CO41801","Teruel","CO41","Huila","CO","Colombia",NA,NA,NA,10,NA
+"CO41807","Timana","CO41","Huila","CO","Colombia",NA,NA,NA,9,1
+"CO41872","Villavieja","CO41","Huila","CO","Colombia",NA,NA,NA,1,1
+"CO41885","Yaguara","CO41","Huila","CO","Colombia",NA,NA,NA,1,NA
+"CO44035","Albania","CO44","La Guajira","CO","Colombia",NA,NA,NA,1,NA
+"CO44098","Distraccion","CO44","La Guajira","CO","Colombia",NA,NA,NA,12,NA
+"CO44110","El Molino","CO44","La Guajira","CO","Colombia",NA,NA,NA,5,1
+"CO44279","Fonseca","CO44","La Guajira","CO","Colombia",NA,NA,NA,30,1
+"CO44378","Hatonuevo","CO44","La Guajira","CO","Colombia",NA,NA,NA,13,NA
+"CO44420","La Jagua del Pilar","CO44","La Guajira","CO","Colombia",NA,NA,NA,2,NA
+"CO44650","San Juan del Cesar","CO44","La Guajira","CO","Colombia",NA,NA,NA,35,2
+"CO44855","Urumita","CO44","La Guajira","CO","Colombia",NA,NA,NA,9,1
+"CO44874","Villanueva","CO44","La Guajira","CO","Colombia",NA,NA,NA,15,NA
+"CO47053","Aracataca","CO47","Magdalena","CO","Colombia",NA,NA,NA,1,2
+"CO47205","Concordia","CO47","Magdalena","CO","Colombia",NA,NA,NA,3,1
+"CO47245","El Banco","CO47","Magdalena","CO","Colombia",NA,NA,NA,10,3
+"CO47288","Fundacion","CO47","Magdalena","CO","Colombia",NA,NA,NA,2,4
+"CO47460","Nueva Granada","CO47","Magdalena","CO","Colombia",NA,NA,NA,1,NA
+"CO47570","Puebloviejo","CO47","Magdalena","CO","Colombia",NA,NA,NA,1,1
+"CO47692","San Sebastian de Buenavista","CO47","Magdalena","CO","Colombia",NA,NA,NA,2,NA
+"CO47745","Sitionuevo","CO47","Magdalena","CO","Colombia",NA,NA,NA,2,NA
+"CO47798","Tenerife","CO47","Magdalena","CO","Colombia",NA,NA,NA,1,NA
+"CO50110","Barranca de Upia","CO50","Meta","CO","Colombia",NA,NA,NA,1,1
+"CO50223","Cubarral","CO50","Meta","CO","Colombia",NA,NA,NA,1,1
+"CO50245","El Calvario","CO50","Meta","CO","Colombia",NA,NA,NA,2,NA
+"CO50270","El Dorado","CO50","Meta","CO","Colombia",NA,NA,NA,3,1
+"CO50287","Fuente de Oro","CO50","Meta","CO","Colombia",NA,NA,NA,6,NA
+"CO50318","Guamal","CO50","Meta","CO","Colombia",NA,NA,NA,9,NA
+"CO50400","Lejanias","CO50","Meta","CO","Colombia",NA,NA,NA,3,1
+"CO50450","Puerto Concordia","CO50","Meta","CO","Colombia",NA,NA,NA,5,NA
+"CO50573","Puerto Lopez","CO50","Meta","CO","Colombia",NA,NA,NA,11,1
+"CO50680","San Carlos de Guaroa","CO50","Meta","CO","Colombia",NA,NA,NA,3,1
+"CO50683","San Juan de Arama","CO50","Meta","CO","Colombia",NA,NA,NA,3,1
+"CO50686","San Juanito","CO50","Meta","CO","Colombia",NA,NA,NA,4,1
+"CO52019","Alban","CO52","Narino","CO","Colombia",NA,NA,NA,11,NA
+"CO52083","Belen","CO52","Narino","CO","Colombia",NA,NA,NA,2,NA
+"CO52110","Buesaco","CO52","Narino","CO","Colombia",NA,NA,NA,25,1
+"CO52203","Colon","CO52","Narino","CO","Colombia",NA,NA,NA,12,NA
+"CO52207","Consaca","CO52","Narino","CO","Colombia",NA,NA,NA,4,1
+"CO52210","Contadero","CO52","Narino","CO","Colombia",NA,NA,NA,1,NA
+"CO52224","Cuaspud Carlosama","CO52","Narino","CO","Colombia",NA,NA,NA,2,NA
+"CO52227","Cumbal","CO52","Narino","CO","Colombia",NA,NA,NA,5,2
+"CO52240","Chachagui","CO52","Narino","CO","Colombia",NA,NA,NA,3,NA
+"CO52258","El Tablon de Gomez","CO52","Narino","CO","Colombia",NA,NA,NA,14,1
+"CO52317","Guachucal","CO52","Narino","CO","Colombia",NA,NA,NA,1,NA
+"CO52323","Gualmatan","CO52","Narino","CO","Colombia",NA,NA,NA,1,1
+"CO52352","Iles","CO52","Narino","CO","Colombia",NA,NA,NA,3,NA
+"CO52354","Imues","CO52","Narino","CO","Colombia",NA,NA,NA,6,NA
+"CO52378","La Cruz","CO52","Narino","CO","Colombia",NA,NA,NA,31,1
+"CO52381","La Florida","CO52","Narino","CO","Colombia",NA,NA,NA,6,NA
+"CO52405","Leiva","CO52","Narino","CO","Colombia",NA,NA,NA,6,NA
+"CO52411","Linares","CO52","Narino","CO","Colombia",NA,NA,NA,1,1
+"CO52506","Ospina","CO52","Narino","CO","Colombia",NA,NA,NA,2,1
+"CO52540","Policarpa","CO52","Narino","CO","Colombia",NA,NA,NA,5,NA
+"CO52560","Potosi","CO52","Narino","CO","Colombia",NA,NA,NA,6,NA
+"CO52573","Puerres","CO52","Narino","CO","Colombia",NA,NA,NA,9,1
+"CO52612","Ricaurte","CO52","Narino","CO","Colombia",NA,NA,NA,1,NA
+"CO52621","Roberto Payan","CO52","Narino","CO","Colombia",NA,NA,NA,3,1
+"CO52678","Samaniego","CO52","Narino","CO","Colombia",NA,NA,NA,4,NA
+"CO52683","Sandona","CO52","Narino","CO","Colombia",NA,NA,NA,7,1
+"CO52685","San Bernardo","CO52","Narino","CO","Colombia",NA,NA,NA,10,1
+"CO52687","San Lorenzo","CO52","Narino","CO","Colombia",NA,NA,NA,3,NA
+"CO52693","San Pablo","CO52","Narino","CO","Colombia",NA,NA,NA,12,1
+"CO52694","San Pedro de Cartago","CO52","Narino","CO","Colombia",NA,NA,NA,6,1
+"CO52696","Santa Barbara","CO52","Narino","CO","Colombia",NA,NA,NA,1,NA
+"CO52786","Taminango","CO52","Narino","CO","Colombia",NA,NA,NA,11,NA
+"CO54003","Abrego","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,2,NA
+"CO54099","Bochalema","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,4,NA
+"CO54128","Cachira","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,2,1
+"CO54172","Chinacota","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,17,4
+"CO54206","Convencion","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,5,1
+"CO54245","El Carmen","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,5,NA
+"CO54261","El Zulia","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,2,1
+"CO54385","La Esperanza","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,2,NA
+"CO54418","Lourdes","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,1,NA
+"CO54553","Puerto Santander","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,4,2
+"CO54599","Ragonvalia","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,1,NA
+"CO54670","San Calixto","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,7,1
+"CO54800","Teorama","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,8,NA
+"CO54820","Toledo","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,3,1
+"CO63111","Buenavista","CO63","Quindio","CO","Colombia",NA,NA,NA,2,1
+"CO63302","Genova","CO63","Quindio","CO","Colombia",NA,NA,NA,5,1
+"CO66045","Apia","CO66","Risaralda","CO","Colombia",NA,NA,NA,2,1
+"CO66075","Balboa","CO66","Risaralda","CO","Colombia",NA,NA,NA,2,2
+"CO66318","Guatica","CO66","Risaralda","CO","Colombia",NA,NA,NA,1,2
+"CO66383","La Celia","CO66","Risaralda","CO","Colombia",NA,NA,NA,2,1
+"CO66400","La Virginia","CO66","Risaralda","CO","Colombia",NA,NA,NA,4,1
+"CO66440","Marsella","CO66","Risaralda","CO","Colombia",NA,NA,NA,15,2
+"CO66572","Pueblo Rico","CO66","Risaralda","CO","Colombia",NA,NA,NA,7,1
+"CO66682","Santa Rosa de Cabal","CO66","Risaralda","CO","Colombia",NA,NA,NA,33,3
+"CO66687","Santuario","CO66","Risaralda","CO","Colombia",NA,NA,NA,2,1
+"CO68013","Aguada","CO68","Santander","CO","Colombia",NA,NA,NA,1,NA
+"CO68020","Albania","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68051","Aratoca","CO68","Santander","CO","Colombia",NA,NA,NA,21,2
+"CO68079","Barichara","CO68","Santander","CO","Colombia",NA,NA,NA,5,1
+"CO68092","Betulia","CO68","Santander","CO","Colombia",NA,NA,NA,4,1
+"CO68101","Bolivar","CO68","Santander","CO","Colombia",NA,NA,NA,21,2
+"CO68121","Cabrera","CO68","Santander","CO","Colombia",NA,NA,NA,7,1
+"CO68132","California","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68147","Capitanejo","CO68","Santander","CO","Colombia",NA,NA,NA,9,1
+"CO68152","Carcasi","CO68","Santander","CO","Colombia",NA,NA,NA,32,1
+"CO68162","Cerrito","CO68","Santander","CO","Colombia",NA,NA,NA,9,1
+"CO68167","Charala","CO68","Santander","CO","Colombia",NA,NA,NA,14,1
+"CO68169","Charta","CO68","Santander","CO","Colombia",NA,NA,NA,14,1
+"CO68179","Chipata","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68207","Concepcion","CO68","Santander","CO","Colombia",NA,NA,NA,23,1
+"CO68209","Confines","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68211","Contratacion","CO68","Santander","CO","Colombia",NA,NA,NA,5,1
+"CO68217","Coromoro","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68229","Curiti","CO68","Santander","CO","Colombia",NA,NA,NA,18,2
+"CO68235","El Carmen de Chucuri","CO68","Santander","CO","Colombia",NA,NA,NA,27,2
+"CO68250","El Penon","CO68","Santander","CO","Colombia",NA,NA,NA,6,NA
+"CO68255","El Playon","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68264","Encino","CO68","Santander","CO","Colombia",NA,NA,NA,11,1
+"CO68266","Enciso","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68271","Florian","CO68","Santander","CO","Colombia",NA,NA,NA,24,1
+"CO68296","Galan","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68298","Gambita","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68318","Guaca","CO68","Santander","CO","Colombia",NA,NA,NA,31,2
+"CO68320","Guadalupe","CO68","Santander","CO","Colombia",NA,NA,NA,21,1
+"CO68322","Guapota","CO68","Santander","CO","Colombia",NA,NA,NA,2,NA
+"CO68327","Guepsa","CO68","Santander","CO","Colombia",NA,NA,NA,5,1
+"CO68344","Hato","CO68","Santander","CO","Colombia",NA,NA,NA,11,1
+"CO68368","Jesus Maria","CO68","Santander","CO","Colombia",NA,NA,NA,5,1
+"CO68370","Jordan","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68377","La Belleza","CO68","Santander","CO","Colombia",NA,NA,NA,29,1
+"CO68385","Landazuri","CO68","Santander","CO","Colombia",NA,NA,NA,21,2
+"CO68397","La Paz","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68406","Lebrija","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68418","Los Santos","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68425","Macaravita","CO68","Santander","CO","Colombia",NA,NA,NA,14,1
+"CO68444","Matanza","CO68","Santander","CO","Colombia",NA,NA,NA,2,1
+"CO68468","Molagavita","CO68","Santander","CO","Colombia",NA,NA,NA,15,2
+"CO68498","Ocamonte","CO68","Santander","CO","Colombia",NA,NA,NA,1,NA
+"CO68500","Oiba","CO68","Santander","CO","Colombia",NA,NA,NA,14,1
+"CO68502","Onzaga","CO68","Santander","CO","Colombia",NA,NA,NA,1,NA
+"CO68522","Palmar","CO68","Santander","CO","Colombia",NA,NA,NA,3,2
+"CO68524","Palmas del Socorro","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68533","Paramo","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68549","Pinchote","CO68","Santander","CO","Colombia",NA,NA,NA,2,NA
+"CO68573","Puerto Parra","CO68","Santander","CO","Colombia",NA,NA,NA,3,NA
+"CO68575","Puerto Wilches","CO68","Santander","CO","Colombia",NA,NA,NA,4,1
+"CO68615","Rionegro","CO68","Santander","CO","Colombia",NA,NA,NA,2,NA
+"CO68655","Sabana de Torres","CO68","Santander","CO","Colombia",NA,NA,NA,3,1
+"CO68673","San Benito","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68684","San Jose de Miranda","CO68","Santander","CO","Colombia",NA,NA,NA,6,1
+"CO68686","San Miguel","CO68","Santander","CO","Colombia",NA,NA,NA,14,1
+"CO68689","San Vicente de Chucuri","CO68","Santander","CO","Colombia",NA,NA,NA,29,5
+"CO68705","Santa Barbara","CO68","Santander","CO","Colombia",NA,NA,NA,13,1
+"CO68745","Simacota","CO68","Santander","CO","Colombia",NA,NA,NA,3,3
+"CO68770","Suaita","CO68","Santander","CO","Colombia",NA,NA,NA,3,2
+"CO68773","Sucre","CO68","Santander","CO","Colombia",NA,NA,NA,32,3
+"CO68780","Surata","CO68","Santander","CO","Colombia",NA,NA,NA,3,2
+"CO68855","Valle de San Jose","CO68","Santander","CO","Colombia",NA,NA,NA,12,1
+"CO68867","Vetas","CO68","Santander","CO","Colombia",NA,NA,NA,1,1
+"CO68895","Zapatoca","CO68","Santander","CO","Colombia",NA,NA,NA,31,1
+"CO70110","Buenavista","CO70","Sucre","CO","Colombia",NA,NA,NA,1,NA
+"CO70204","Coloso","CO70","Sucre","CO","Colombia",NA,NA,NA,2,NA
+"CO70221","Covenas","CO70","Sucre","CO","Colombia",NA,NA,NA,2,1
+"CO70429","Majagual","CO70","Sucre","CO","Colombia",NA,NA,NA,2,1
+"CO70702","San Juan de Betulia","CO70","Sucre","CO","Colombia",NA,NA,NA,1,NA
+"CO70713","San Onofre","CO70","Sucre","CO","Colombia",NA,NA,NA,3,1
+"CO70717","San Pedro","CO70","Sucre","CO","Colombia",NA,NA,NA,2,1
+"CO73024","Alpujarra","CO73","Tolima","CO","Colombia",NA,NA,NA,5,NA
+"CO73124","Cajamarca","CO73","Tolima","CO","Colombia",NA,NA,NA,3,NA
+"CO73152","Casabianca","CO73","Tolima","CO","Colombia",NA,NA,NA,6,NA
+"CO73200","Coello","CO73","Tolima","CO","Colombia",NA,NA,NA,4,1
+"CO73217","Coyaima","CO73","Tolima","CO","Colombia",NA,NA,NA,13,NA
+"CO73226","Cunday","CO73","Tolima","CO","Colombia",NA,NA,NA,15,4
+"CO73236","Dolores","CO73","Tolima","CO","Colombia",NA,NA,NA,5,1
+"CO73270","Falan","CO73","Tolima","CO","Colombia",NA,NA,NA,12,2
+"CO73283","Fresno","CO73","Tolima","CO","Colombia",NA,NA,NA,4,1
+"CO73347","Herveo","CO73","Tolima","CO","Colombia",NA,NA,NA,5,NA
+"CO73349","Honda","CO73","Tolima","CO","Colombia",NA,NA,NA,7,1
+"CO73352","Icononzo","CO73","Tolima","CO","Colombia",NA,NA,NA,17,2
+"CO73483","Natagaima","CO73","Tolima","CO","Colombia",NA,NA,NA,8,1
+"CO73504","Ortega","CO73","Tolima","CO","Colombia",NA,NA,NA,11,1
+"CO73520","Palocabildo","CO73","Tolima","CO","Colombia",NA,NA,NA,3,1
+"CO73555","Planadas","CO73","Tolima","CO","Colombia",NA,NA,NA,9,1
+"CO73563","Prado","CO73","Tolima","CO","Colombia",NA,NA,NA,3,1
+"CO73585","Purificacion","CO73","Tolima","CO","Colombia",NA,NA,NA,8,1
+"CO73616","Rioblanco","CO73","Tolima","CO","Colombia",NA,NA,NA,16,NA
+"CO73622","Roncesvalles","CO73","Tolima","CO","Colombia",NA,NA,NA,1,NA
+"CO73624","Rovira","CO73","Tolima","CO","Colombia",NA,NA,NA,9,1
+"CO73671","Saldana","CO73","Tolima","CO","Colombia",NA,NA,NA,4,NA
+"CO73675","San Antonio","CO73","Tolima","CO","Colombia",NA,NA,NA,10,1
+"CO73678","San Luis","CO73","Tolima","CO","Colombia",NA,NA,NA,8,1
+"CO73686","Santa Isabel","CO73","Tolima","CO","Colombia",NA,NA,NA,5,NA
+"CO73770","Suarez","CO73","Tolima","CO","Colombia",NA,NA,NA,2,NA
+"CO73854","Valle de San Juan","CO73","Tolima","CO","Colombia",NA,NA,NA,5,1
+"CO73861","Venadillo","CO73","Tolima","CO","Colombia",NA,NA,NA,6,NA
+"CO73870","Villahermosa","CO73","Tolima","CO","Colombia",NA,NA,NA,5,1
+"CO73873","Villarrica","CO73","Tolima","CO","Colombia",NA,NA,NA,6,1
+"CO76020","Alcala","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,2,1
+"CO76036","Andalucia","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,2,1
+"CO76113","Bugalagrande","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,1,2
+"CO76122","Caicedonia","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,5,1
+"CO76130","Candelaria","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,12,5
+"CO76318","Guacari","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,1,1
+"CO76377","La Cumbre","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,1,2
+"CO76563","Pradera","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,1,1
+"CO76670","San Pedro","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,2,1
+"CO76736","Sevilla","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,13,1
+"CO76863","Versalles","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,2,NA
+"CO76890","Yotoco","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,4,1
+"CO81065","Arauquita","CO81","Arauca","CO","Colombia",NA,NA,NA,19,1
+"CO81220","Cravo Norte","CO81","Arauca","CO","Colombia",NA,NA,NA,2,1
+"CO81300","Fortul","CO81","Arauca","CO","Colombia",NA,NA,NA,1,NA
+"CO81591","Puerto Rondon","CO81","Arauca","CO","Colombia",NA,NA,NA,1,NA
+"CO85010","Aguazul","CO85","Casanare","CO","Colombia",NA,NA,NA,4,1
+"CO85015","Chameza","CO85","Casanare","CO","Colombia",NA,NA,NA,3,NA
+"CO85125","Hato Corozal","CO85","Casanare","CO","Colombia",NA,NA,NA,2,NA
+"CO85139","Mani","CO85","Casanare","CO","Colombia",NA,NA,NA,3,1
+"CO85225","Nunchia","CO85","Casanare","CO","Colombia",NA,NA,NA,1,NA
+"CO85230","Orocue","CO85","Casanare","CO","Colombia",NA,NA,NA,4,1
+"CO85250","Paz de Ariporo","CO85","Casanare","CO","Colombia",NA,NA,NA,2,2
+"CO85279","Recetor","CO85","Casanare","CO","Colombia",NA,NA,NA,1,NA
+"CO85300","Sabanalarga","CO85","Casanare","CO","Colombia",NA,NA,NA,3,NA
+"CO85315","Sacama","CO85","Casanare","CO","Colombia",NA,NA,NA,1,NA
+"CO85325","San Luis de Palenque","CO85","Casanare","CO","Colombia",NA,NA,NA,3,NA
+"CO85400","Tamara","CO85","Casanare","CO","Colombia",NA,NA,NA,3,NA
+"CO86320","Orito","CO86","Putumayo","CO","Colombia",NA,NA,NA,58,NA
+"CO86569","Puerto Caicedo","CO86","Putumayo","CO","Colombia",NA,NA,NA,5,1
+"CO86573","Puerto Leguizamo","CO86","Putumayo","CO","Colombia",NA,NA,NA,24,2
+"CO86755","San Francisco","CO86","Putumayo","CO","Colombia",NA,NA,NA,4,NA
+"CO86757","San Miguel","CO86","Putumayo","CO","Colombia",NA,NA,NA,4,1
+"CO86760","Santiago","CO86","Putumayo","CO","Colombia",NA,NA,NA,4,NA
+"CO86865","Valle del Guamuez","CO86","Putumayo","CO","Colombia",NA,NA,NA,31,1
+"CO86885","Villagarzon","CO86","Putumayo","CO","Colombia",NA,NA,NA,13,1
+"CO88564","Providencia","CO88","Archipielago de San Andres, Providencia y Santa Catalina","CO","Colombia",NA,NA,NA,2,1
+"CO91407","La Pedrera","CO91","Amazonas","CO","Colombia",NA,NA,NA,2,1
+"CO91540","Puerto Narino","CO91","Amazonas","CO","Colombia",NA,NA,NA,1,1
+"CO94001","Inirida","CO94","Guainia","CO","Colombia",NA,NA,NA,9,1
+"CO94343","Barrancominas","CO94","Guainia","CO","Colombia",NA,NA,NA,1,NA
+"CO95015","Calamar","CO95","Guaviare","CO","Colombia",NA,NA,NA,11,1
+"CO95025","El Retorno","CO95","Guaviare","CO","Colombia",NA,NA,NA,10,3
+"CO95200","Miraflores","CO95","Guaviare","CO","Colombia",NA,NA,NA,3,NA
+"CO97777","Papunahua","CO97","Vaupes","CO","Colombia",NA,NA,NA,1,NA
+"CO99001","Puerto Carreno","CO99","Vichada","CO","Colombia",NA,NA,NA,5,1
+"CO05004","Abriaqui","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05091","Betania","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05190","Cisneros","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05282","Fredonia","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05475","Murindo","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05576","Pueblorrico","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05585","Puerto Nare","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05591","Puerto Triunfo","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05628","Sabanalarga","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05667","San Rafael","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,1
+"CO05809","Titiribi","CO05","Antioquia","CO","Colombia",NA,NA,NA,NA,2
+"CO15248","El Espino","CO15","Boyaca","CO","Colombia",NA,NA,NA,NA,1
+"CO15401","La Victoria","CO15","Boyaca","CO","Colombia",NA,NA,NA,NA,1
+"CO17042","Anserma","CO17","Caldas","CO","Colombia",NA,NA,NA,NA,1
+"CO17442","Marmato","CO17","Caldas","CO","Colombia",NA,NA,NA,NA,1
+"CO20570","Pueblo Bello","CO20","Cesar","CO","Colombia",NA,NA,NA,NA,1
+"CO23162","Cerete","CO23","Cordoba","CO","Colombia",NA,NA,NA,NA,2
+"CO23300","Cotorra","CO23","Cordoba","CO","Colombia",NA,NA,NA,NA,1
+"CO23419","Los Cordobas","CO23","Cordoba","CO","Colombia",NA,NA,NA,NA,1
+"CO23672","San Antero","CO23","Cordoba","CO","Colombia",NA,NA,NA,NA,1
+"CO23815","Tuchin","CO23","Cordoba","CO","Colombia",NA,NA,NA,NA,1
+"CO25297","Gacheta","CO25","Cundinamarca","CO","Colombia",NA,NA,NA,NA,1
+"CO41132","Campoalegre","CO41","Huila","CO","Colombia",NA,NA,NA,NA,1
+"CO41797","Tesalia","CO41","Huila","CO","Colombia",NA,NA,NA,NA,1
+"CO47170","Chivolo","CO47","Magdalena","CO","Colombia",NA,NA,NA,NA,1
+"CO47268","El Reten","CO47","Magdalena","CO","Colombia",NA,NA,NA,NA,1
+"CO47555","Plato","CO47","Magdalena","CO","Colombia",NA,NA,NA,NA,1
+"CO50150","Castilla la Nueva","CO50","Meta","CO","Colombia",NA,NA,NA,NA,2
+"CO50226","Cumaral","CO50","Meta","CO","Colombia",NA,NA,NA,NA,2
+"CO50689","San Martin","CO50","Meta","CO","Colombia",NA,NA,NA,NA,1
+"CO52022","Aldana","CO52","Narino","CO","Colombia",NA,NA,NA,NA,2
+"CO52250","El Charco","CO52","Narino","CO","Colombia",NA,NA,NA,NA,1
+"CO52480","Narino","CO52","Narino","CO","Colombia",NA,NA,NA,NA,1
+"CO54174","Chitaga","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,NA,1
+"CO54398","La Playa","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,NA,1
+"CO54660","Salazar","CO54","Norte de Santander","CO","Colombia",NA,NA,NA,NA,1
+"CO68176","Chima","CO68","Santander","CO","Colombia",NA,NA,NA,NA,1
+"CO73275","Flandes","CO73","Tolima","CO","Colombia",NA,NA,NA,NA,1
+"CO76054","Argelia","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO76100","Bolivar","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO76126","Calima","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO76243","El Aguila","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO76403","La Victoria","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO76497","Obando","CO76","Valle del Cauca","CO","Colombia",NA,NA,NA,NA,1
+"CO85162","Monterrey","CO85","Casanare","CO","Colombia",NA,NA,NA,NA,1
+"CO86219","Colon","CO86","Putumayo","CO","Colombia",NA,NA,NA,NA,1
+"CO91669","Puerto Santander","CO91","Amazonas","CO","Colombia",NA,NA,NA,NA,2
